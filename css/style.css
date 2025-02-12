@@ -599,9 +599,8 @@ header .container .landing ul li:last-of-type {
     display: flex;
     justify-content: center;
     align-items: center;
-    justify-self: center;
     color: white;
-    margin: 20px 0;
+    margin: 20px auto;
 }
 
 @media (min-width:992px) {
